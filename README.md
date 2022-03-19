@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing clean code.
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on nothing at the moment.
-- 📫 How to reach me N/A
+- 📫 How to reach me - Michaelsimonaz@gmail.com
 
 <!---
 MSAZ89/MSAZ89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
